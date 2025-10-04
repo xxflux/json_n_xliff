@@ -1,0 +1,21 @@
+{
+  "name": "json-xliff-converter",
+  "version": "1.0.0",
+  "description": "Node.js scripts to convert between JSON and XLIFF formats",
+  "main": "index.js",
+  "scripts": {
+    "json-to-xliff": "node json-to-xliff.js",
+    "xliff-to-json": "node xliff-to-json.js"
+  },
+  "dependencies": {
+    "@leading-works/json2xliff": "^1.0.0"
+  },
+  "keywords": [
+    "json",
+    "xliff",
+    "converter",
+    "translation"
+  ],
+  "author": "",
+  "license": "MIT"
+}
