@@ -1,3 +1,5 @@
+![alt text](https://github.com/xxflux/json_n_xliff/blob/main/json_xliff.png)
+
 # JSON ↔ XLIFF Converter
 
 Node.js scripts to convert between JSON and XLIFF (XML Localization Interchange File Format) files for translation workflows.
